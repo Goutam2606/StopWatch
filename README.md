@@ -1,2 +1,2 @@
-# Getting Started with Create React App
+# Getting Started with React 
 # StopWatch Using React 
